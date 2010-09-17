@@ -8,5 +8,1729 @@
    "code": "34D",
    "version": "1",
    "seatmap": {
+      "1": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "F"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "2": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "F"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "3": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "4": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "5": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "6": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "7": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "8": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "10": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "11": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "12": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "14": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "C"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "26": {
+         "properties": {
+            "door": false,
+            "exit": true,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "27": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "28": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "29": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "30": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "31": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "32": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "33": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": true,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "34": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "35": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "36": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "37": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "38": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "39": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "40": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "41": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": true,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "44": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "45": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "46": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "47": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "48": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "49": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "50": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "51": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "52": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "53": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "F",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "54": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "55": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "56": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "57": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      },
+      "58": {
+         "properties": {
+            "door": false,
+            "exit": false,
+            "galley": false,
+            "wing": false,
+            "upper": false,
+            "class": "Y"
+         },
+         "seats": [
+            {
+               "number": "A",
+               "direction": "f"
+            },
+            {
+               "number": "C",
+               "direction": "f"
+            },
+            {
+               "number": "D",
+               "direction": "f"
+            },
+            {
+               "number": "E",
+               "direction": "f"
+            },
+            {
+               "number": "G",
+               "direction": "f"
+            },
+            {
+               "number": "H",
+               "direction": "f"
+            },
+            {
+               "number": "K",
+               "direction": "f"
+            }
+         ]
+      }
    }
 }
