@@ -1,8 +1,0 @@
-question-text:
-Here is the text of some question [[image.jpeg]]
-
-part-of: http://some/collection
-
-answer: http://some/answer
-
-
