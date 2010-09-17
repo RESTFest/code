@@ -1,0 +1,15 @@
+{
+   "_id": "2bb2a26c6e4453ddeac06b80c90029d7",
+   "_rev": "1-dcbd6cea589f2c0b0c9b76fffcfb38eb",
+   "type": "flight",
+   "origin": "MUC",
+   "destination": "CLT",
+   "airline": "LH",
+   "flight": "428",
+   "equipment": "2bb2a26c6e4453ddeac06b80c9002331",
+   "seatmap": {
+   },
+   "departure": "2010-09-19T11:40:00+0200",
+   "arrival": "2010-09-19T15:35:00-0400",
+   "duration": 35700
+}
