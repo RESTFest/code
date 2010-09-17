@@ -1,0 +1,12 @@
+{
+   "_id": "2bb2a26c6e4453ddeac06b80c9001686",
+   "_rev": "3-ca672d9ce51973e6e2fd7aa1fb1e2058",
+   "type": "equipment",
+   "airline": "US",
+   "manufacturer": "Airbus",
+   "model": "A321-200",
+   "code": "321",
+   "version": "1",
+   "seatmap": {
+   }
+}

@@ -1,0 +1,12 @@
+{
+   "_id": "2bb2a26c6e4453ddeac06b80c9002331",
+   "_rev": "1-531bc0f0e843e6e147f19ad3fbdfa9b7",
+   "type": "equipment",
+   "airline": "LH",
+   "manufacturer": "Airbus",
+   "model": "A340-600",
+   "code": "34D",
+   "version": "1",
+   "seatmap": {
+   }
+}

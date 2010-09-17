@@ -1,0 +1,12 @@
+{
+   "_id": "2bb2a26c6e4453ddeac06b80c90011f0",
+   "_rev": "1-466757c190d29047b54a6d2188e32720",
+   "type": "equipment",
+   "manufacturer": "Boeing",
+   "model": "747-400",
+   "airline": "LH",
+   "code": "744",
+   "seatmap": {
+   },
+   "version": "1"
+}
