@@ -1,0 +1,8 @@
+{
+	"_id":"MUC",
+	"type":"airport",
+	"name":"Munich Franz Josef Strauss Airport",
+	"country":"DE",
+	"loc":[11.786111,48.353889],
+	"website":"http://www.munich-airport.de/"
+}

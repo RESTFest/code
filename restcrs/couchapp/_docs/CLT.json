@@ -1,0 +1,8 @@
+{
+	"_id":"CLT",
+	"type":"airport",
+	"name":"Charlotte Douglas International Airport",
+	"country":"US",
+	"loc":[-80.943056,35.213889],
+	"website":"http://www.charlotteairport.com/"
+}
