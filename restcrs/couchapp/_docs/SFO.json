@@ -1,0 +1,8 @@
+{
+	"_id":"SFO",
+	"type":"airport",
+	"name":"San Francisco International Airport",
+	"country":"US",
+	"loc":[-122.375,37.618889],
+	"website":"http://flysfo.com/"
+}
