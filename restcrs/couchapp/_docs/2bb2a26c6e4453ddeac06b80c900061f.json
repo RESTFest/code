@@ -1,0 +1,12 @@
+{
+   "_id": "2bb2a26c6e4453ddeac06b80c900061f",
+   "_rev": "7-e698fd1c770af25492a12086ea4361a1",
+   "type": "equipment",
+   "manufacturer": "Boeing",
+   "model": "747-400",
+   "airline": "UA",
+   "code": "744",
+   "seatmap": {
+   },
+   "version": "1"
+}
