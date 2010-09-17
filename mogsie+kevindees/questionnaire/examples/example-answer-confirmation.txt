@@ -1,0 +1,17 @@
+# This is a document that confirms that an answer has been received
+# All lines that start with hashes are comments.
+
+### Question: a hypermedia control that links back to the question that
+### this question.  It's optional.
+question:http://some/other/question
+
+### This question was part of a larger questionnaire.
+part-of:http://some/collection
+
+### The "next-question" is an outbound link.  If present it is a suggestion
+### that the next state, typically a question.
+### If not present, the user agent should typically go to the questionnaire
+### (part-of)
+next-question:http://yet/another/question
+
+
