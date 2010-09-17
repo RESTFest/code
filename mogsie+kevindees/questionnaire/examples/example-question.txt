@@ -1,8 +1,20 @@
-question-text:
+# "text:" indicates that this document should be shown with the text on the
+# following lines until the first double crlf.
+# The text can have images embedded with [[image-uri]] syntax
+
+text:
 Here is the text of some question [[image.jpeg]]
 
+# part-of" indicates that the question is a part of a questionnaire
 part-of: http://some/collection
 
+# In fact, it's part of another collection too.
+part-of: http://some/other/collection
+
+# The answer link is NOT an outbound link (LO), but a resource
+# to which the response should be passed.  The media type is the string
+# representation of the answer that the user typed, of type text/plain.
 answer: http://some/answer
 
+# In the HTTP protocol binding, answer: is bound to POST.
 

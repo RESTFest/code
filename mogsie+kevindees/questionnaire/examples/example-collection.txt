@@ -1,5 +1,14 @@
 # Comments
-# I added this question on 20
+text:This is a collection of two questions about cats.  Have fun!
+# I added this question on 2010-04-12 --mogsie
 question:http://some/question
 question:http://some/other/question
+
+
+# This collection is a part of a larger collection
+part-of: http://some/super-collection
+
+# If you just want to click through linearly, follow the "next" link
+next:http://some/question
+
 
