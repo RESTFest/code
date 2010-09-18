@@ -10,7 +10,7 @@ function(head, req) {
 				if (mr == 'airports') {
 					send(' (<a href="http://maps.google.com/?ll='+row.value.loc[1]+','+row.value.loc[0]+'&z=13">map</a>)');
 				} else if (mr == 'airlines') {
-					send(' (<a href="/restcrs/_design/couchapp/_show/airline/'+row.id+'">details</a>)')			}
+					send(' (<a rel="describedBy" href="/restcrs/_design/couchapp/_show/airline/'+row.id+'">details</a>)')			}
 				send('</li>');
 			}
 			send('</ul>');
