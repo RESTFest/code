@@ -37,6 +37,7 @@
             "airline": "LH",
             "code": "41DO78"
          },
+         "ticketed": true,
          "check_in": {
             "ZUELKE/DAVIDMR": false,
             "YOUNG/BENJAMINMR": false
