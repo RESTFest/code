@@ -2,11 +2,14 @@ function(head, req) {
 	var row;
 	provides('html',
 		function() {
-			send('<ul class="types">');
+			var mr = req.path.pop();
+			send('<ul class="'+mr+'">');
 			while(row = getRow()) {
-				if (row.value.doc.type != 'page') {
-					send('<li>'+row.value.title+'</li>');
+				send('<li>'+row.value.name);
+				if (mr == 'airports') {
+					send(' (<a href="http://maps.google.com/?ll='+row.value.loc[1]+','+row.value.loc[0]+'&z=13">map</a>)');
 				}
+				send('</li>');
 			}
 			send('</ul>');
 		}
