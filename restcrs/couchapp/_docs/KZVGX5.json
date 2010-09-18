@@ -1,0 +1,57 @@
+{
+   "_id": "KZVGX5",
+   "type": "pnr",
+   "ticket": "2203412533312",
+   "owner": "XY",
+   "agency": {
+      "name": "Couch Travels Inc.",
+      "iata": "46163142"
+   },
+   "passengers": {
+      "ZUELKE/DAVIDMR": {
+         "fqtv": {
+           "ffp": "LHMM",
+           "number": "992212345678901"
+         }
+      },
+      "YOUNG/BENJAMINMR": {
+         "fqtv": null
+      }
+   },
+   "itinerary": [
+      {
+         "flight": {
+            "id": "2bb2a26c6e4453ddeac06b80c90029d7",
+            "airline": "LH",
+            "number": "428",
+            "origin": "MUC",
+            "destination": "CLT",
+            "date": "2010-09-19T11:40:00+0200"
+         },
+         "class": "Z",
+         "baggage": null,
+         "fare": {
+            "basis": "VKAXTODE"
+         },
+         "confirmation": {
+            "airline": "LH",
+            "code": "41DO78"
+         },
+         "check_in": {
+            "ZUELKE/DAVIDMR": false,
+            "YOUNG/BENJAMINMR": false
+         },
+         "validity": {
+            "not_before": "2010-09-16+0200",
+            "not_after": "2011-09-16+0200"
+         }
+      }
+   ],
+   "fare": {
+      "calculation": {},
+      "fees": {},
+      "payment": {},
+      "remarks": {}
+    },
+   "created": "2010-09-12T15:41:12+0200"
+}
