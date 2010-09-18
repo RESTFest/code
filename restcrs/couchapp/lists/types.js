@@ -3,6 +3,7 @@ function(head, req) {
 	provides('html',
 		function() {
 			var mr = req.path.pop();
+			send('<h1>'+mr[0].toUpperCase()+mr.substr(1)+'</h1>');
 			send('<ul class="'+mr+'">');
 			while(row = getRow()) {
 				send('<li>'+row.value.name);
