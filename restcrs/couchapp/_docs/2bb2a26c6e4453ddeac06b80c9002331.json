@@ -7,8 +7,9 @@
    "model": "A340-600",
    "code": "34D",
    "version": "1",
-   "seatmap": {
-      "1": {
+   "seatmap": [
+      {
+         "row": 1,
          "properties": {
             "door": false,
             "exit": false,
@@ -19,24 +20,25 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "2": {
+      {
+         "row": 2,
          "properties": {
             "door": false,
             "exit": false,
@@ -47,24 +49,25 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "3": {
+      {
+         "row": 3,
          "properties": {
             "door": false,
             "exit": false,
@@ -75,32 +78,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "4": {
+      {
+         "row": 4,
          "properties": {
             "door": false,
             "exit": false,
@@ -111,32 +115,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "5": {
+      {
+         "row": 5,
          "properties": {
             "door": false,
             "exit": false,
@@ -147,32 +152,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "6": {
+      {
+         "row": 6,
          "properties": {
             "door": false,
             "exit": false,
@@ -183,32 +189,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "7": {
+      {
+         "row": 7,
          "properties": {
             "door": false,
             "exit": false,
@@ -219,32 +226,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "8": {
+      {
+         "row": 8,
          "properties": {
             "door": false,
             "exit": false,
@@ -255,32 +263,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "10": {
+      {
+         "row": 10,
          "properties": {
             "door": false,
             "exit": false,
@@ -291,32 +300,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "11": {
+      {
+         "row": 11,
          "properties": {
             "door": false,
             "exit": false,
@@ -327,32 +337,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "12": {
+      {
+         "row": 12,
          "properties": {
             "door": false,
             "exit": false,
@@ -363,32 +374,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "14": {
+      {
+         "row": 14,
          "properties": {
             "door": false,
             "exit": false,
@@ -399,32 +411,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "26": {
+      {
+         "row": 26,
          "properties": {
             "door": false,
             "exit": true,
@@ -435,36 +448,37 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "27": {
+      {
+         "row": 27,
          "properties": {
             "door": false,
             "exit": false,
@@ -475,40 +489,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "28": {
+      {
+         "row": 28,
          "properties": {
             "door": false,
             "exit": false,
@@ -519,40 +534,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "29": {
+      {
+         "row": 29,
          "properties": {
             "door": false,
             "exit": false,
@@ -563,40 +579,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "30": {
+      {
+         "row": 30,
          "properties": {
             "door": false,
             "exit": false,
@@ -607,40 +624,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "31": {
+      {
+         "row": 31,
          "properties": {
             "door": false,
             "exit": false,
@@ -651,40 +669,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "32": {
+      {
+         "row": 32,
          "properties": {
             "door": false,
             "exit": false,
@@ -695,40 +714,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "33": {
+      {
+         "row": 33,
          "properties": {
             "door": false,
             "exit": false,
@@ -739,40 +759,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "34": {
+      {
+         "row": 34,
          "properties": {
             "door": false,
             "exit": false,
@@ -783,40 +804,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "35": {
+      {
+         "row": 35,
          "properties": {
             "door": false,
             "exit": false,
@@ -827,40 +849,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "36": {
+      {
+         "row": 36,
          "properties": {
             "door": false,
             "exit": false,
@@ -871,40 +894,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "37": {
+      {
+         "row": 37,
          "properties": {
             "door": false,
             "exit": false,
@@ -915,40 +939,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "38": {
+      {
+         "row": 38,
          "properties": {
             "door": false,
             "exit": false,
@@ -959,40 +984,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "39": {
+      {
+         "row": 39,
          "properties": {
             "door": false,
             "exit": false,
@@ -1003,32 +1029,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "40": {
+      {
+         "row": 40,
          "properties": {
             "door": false,
             "exit": false,
@@ -1039,32 +1066,33 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "41": {
+      {
+         "row": 41,
          "properties": {
             "door": false,
             "exit": false,
@@ -1075,24 +1103,25 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "44": {
+      {
+         "row": 44,
          "properties": {
             "door": false,
             "exit": false,
@@ -1103,40 +1132,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "45": {
+      {
+         "row": 45,
          "properties": {
             "door": false,
             "exit": false,
@@ -1147,40 +1177,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "46": {
+      {
+         "row": 46,
          "properties": {
             "door": false,
             "exit": false,
@@ -1191,40 +1222,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "47": {
+      {
+         "row": 47,
          "properties": {
             "door": false,
             "exit": false,
@@ -1235,40 +1267,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "48": {
+      {
+         "row": 48,
          "properties": {
             "door": false,
             "exit": false,
@@ -1279,40 +1312,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "49": {
+      {
+         "row": 49,
          "properties": {
             "door": false,
             "exit": false,
@@ -1323,40 +1357,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "50": {
+      {
+         "row": 50,
          "properties": {
             "door": false,
             "exit": false,
@@ -1367,40 +1402,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "51": {
+      {
+         "row": 51,
          "properties": {
             "door": false,
             "exit": false,
@@ -1411,40 +1447,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "52": {
+      {
+         "row": 52,
          "properties": {
             "door": false,
             "exit": false,
@@ -1455,40 +1492,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "53": {
+      {
+         "row": 53,
          "properties": {
             "door": false,
             "exit": false,
@@ -1499,40 +1537,41 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "F",
-               "direction": "f"
+               "letter": "F",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "54": {
+      {
+         "row": 54,
          "properties": {
             "door": false,
             "exit": false,
@@ -1543,36 +1582,37 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "55": {
+      {
+         "row": 55,
          "properties": {
             "door": false,
             "exit": false,
@@ -1583,36 +1623,37 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "56": {
+      {
+         "row": 56,
          "properties": {
             "door": false,
             "exit": false,
@@ -1623,36 +1664,37 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "57": {
+      {
+         "row": 57,
          "properties": {
             "door": false,
             "exit": false,
@@ -1663,36 +1705,37 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       },
-      "58": {
+      {
+         "row": 58,
          "properties": {
             "door": false,
             "exit": false,
@@ -1703,34 +1746,34 @@
          },
          "seats": [
             {
-               "number": "A",
-               "direction": "f"
+               "letter": "A",
+               "rear_facing": false
             },
             {
-               "number": "C",
-               "direction": "f"
+               "letter": "C",
+               "rear_facing": false
             },
             {
-               "number": "D",
-               "direction": "f"
+               "letter": "D",
+               "rear_facing": false
             },
             {
-               "number": "E",
-               "direction": "f"
+               "letter": "E",
+               "rear_facing": false
             },
             {
-               "number": "G",
-               "direction": "f"
+               "letter": "G",
+               "rear_facing": false
             },
             {
-               "number": "H",
-               "direction": "f"
+               "letter": "H",
+               "rear_facing": false
             },
             {
-               "number": "K",
-               "direction": "f"
+               "letter": "K",
+               "rear_facing": false
             }
          ]
       }
-   }
+   ]
 }
