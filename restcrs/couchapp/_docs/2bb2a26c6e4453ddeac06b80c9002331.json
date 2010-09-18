@@ -18,24 +18,20 @@
             "upper": false,
             "class": "F"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 2,
@@ -47,24 +43,20 @@
             "upper": false,
             "class": "F"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 3,
@@ -76,32 +68,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 4,
@@ -113,32 +99,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 5,
@@ -150,32 +130,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 6,
@@ -187,32 +161,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 7,
@@ -224,32 +192,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 8,
@@ -261,32 +223,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 10,
@@ -298,32 +254,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 11,
@@ -335,32 +285,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 12,
@@ -372,32 +316,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 14,
@@ -409,32 +347,26 @@
             "upper": false,
             "class": "C"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 26,
@@ -446,36 +378,29 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 27,
@@ -487,40 +412,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 28,
@@ -532,40 +449,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 29,
@@ -577,40 +486,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 30,
@@ -622,40 +523,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 31,
@@ -667,40 +560,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 32,
@@ -712,40 +597,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 33,
@@ -757,40 +634,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 34,
@@ -802,40 +671,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 35,
@@ -847,40 +708,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 36,
@@ -892,40 +745,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 37,
@@ -937,40 +782,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 38,
@@ -982,40 +819,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 39,
@@ -1027,32 +856,26 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 40,
@@ -1064,32 +887,26 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 41,
@@ -1101,24 +918,20 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 44,
@@ -1130,40 +943,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 45,
@@ -1175,40 +980,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 46,
@@ -1220,40 +1017,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 47,
@@ -1265,40 +1054,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 48,
@@ -1310,40 +1091,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 49,
@@ -1355,40 +1128,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 50,
@@ -1400,40 +1165,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 51,
@@ -1445,40 +1202,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 52,
@@ -1490,40 +1239,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 53,
@@ -1535,40 +1276,32 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "F",
+            "F": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 54,
@@ -1580,36 +1313,29 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 55,
@@ -1621,36 +1347,29 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 56,
@@ -1662,36 +1381,29 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 57,
@@ -1703,36 +1415,29 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       },
       {
          "row": 58,
@@ -1744,36 +1449,29 @@
             "upper": false,
             "class": "Y"
          },
-         "seats": [
-            {
-               "letter": "A",
+         "seats": {
+            "A": {
                "rear_facing": false
             },
-            {
-               "letter": "C",
+            "C": {
                "rear_facing": false
             },
-            {
-               "letter": "D",
+            "D": {
                "rear_facing": false
             },
-            {
-               "letter": "E",
+            "E": {
                "rear_facing": false
             },
-            {
-               "letter": "G",
+            "G": {
                "rear_facing": false
             },
-            {
-               "letter": "H",
+            "H": {
                "rear_facing": false
             },
-            {
-               "letter": "K",
+            "K": {
                "rear_facing": false
             }
-         ]
+         }
       }
    ]
 }
