@@ -110,7 +110,7 @@ function algorithm() {
   startDirection = 0; // north
   // If I previously navigated a direction, try to keep going "left"
   if (history.navigate != undefined) {
-    startDirection = (history.navigate + 1) % directions.length;
+    startDirection = (history.navigate - 1) % directions.length;
     console.log("I was going " +directions[history.navigate] + ", so I'll try going " + directions[startDirection]); 
   }
   for (var i = 0; i < directions.length; i++) {
