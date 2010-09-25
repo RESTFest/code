@@ -105,23 +105,27 @@ function newState(agent) {
 }
 
 function algorithm() {
+  console.log("New state!");
   console.log(state);
   startDirection = 0; // north
   // If I previously navigated a direction, try to keep going "left"
   if (history.navigate != undefined) {
-    startDirection = history.navigate;
+    startDirection = (history.navigate + 1) % directions.length;
+    console.log("I was going " +directions[history.navigate] + ", so I'll try going " + directions[startDirection]); 
   }
   for (var i = 0; i < directions.length; i++) {
     if (state[directions[i + startDirection]]) {
-      console.log("going left");
-      history.navigate = i + startDirection;
-      get(state[directions[i + startDirection]]);
-      break;
+      history.navigate = i + startDirection % directions.length;
+      console.log("\n***************************************************************\n************* " + history.navigate + ": " + directions[history.navigate] + "\n" + state[directions[history.navigate]]);
+      get(state[directions[history.navigate]]);
+      return;
     }
   }
   if (state.start) {
+    console.log("I found the maze entrance.  Going in!!!");
     get(state.start);
   }
+  console.log("I couldn't find my way out :-(");
 }
 
 
