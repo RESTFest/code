@@ -94,7 +94,7 @@ function newState(agent) {
 }
 
 function algorithm() {
-//  console.log("New state!");
+  console.log("\n****************************************************************************\n");
 //  console.log(state);
   if (state.exit) {
     console.log("I found the maze exit.  node.js rocks!");
@@ -104,14 +104,19 @@ function algorithm() {
   // If I previously navigated a direction, try to keep going "left"
   if (history.navigate != undefined) {
     startDirection = (history.navigate - 1) % directions.length;
+    if (startDirection < 0) startDirection = startDirection + directions.length;
     console.log("I was going " +directions[history.navigate]); 
   }
   for (var i = 0; i < directions.length; i++) {
-    if (state[directions[i + startDirection]]) {
-      history.navigate = i + startDirection % directions.length;
-      console.log("\n***************************************************************\n************* " + history.navigate + ": " + directions[history.navigate] + "\n" + state[directions[history.navigate]]);
+    var suggestedDirection = (i + startDirection) % directions.length;
+    if (state[directions[suggestedDirection]]) {
+      history.navigate = suggestedDirection;
+      console.log("" + history.navigate + ": " + directions[history.navigate] + "\n" + state[directions[history.navigate]]);
       get(state[directions[history.navigate]]);
       return;
+    }
+    else {
+      console.log("I can't go " + directions[suggestedDirection] + " ...");
     }
   }
   if (state.start) {
@@ -120,12 +125,15 @@ function algorithm() {
     return;
   }
   console.log("I couldn't find my way out :-(");
+  console.log("These were my options: " + JSON.stringify(state));
 }
 
 
 var http      = require('http');
+var ticks = 0;
 function tick() {
-  console.log("going to " + nextUri);
+  
+  console.log(ticks++ + ": going to " + nextUri);
   var uri = url.parse(nextUri);
   nextUri = null;
   var client= http.createClient(uri.port ? uri.port : 80, uri.hostname);
