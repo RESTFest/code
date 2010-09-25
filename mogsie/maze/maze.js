@@ -86,6 +86,7 @@ var responseMatcher = match.Match(
 
 var state;
 var history = new Object();
+history.deadend = 0;
 var directions = ['north', 'east', 'south', 'west'];
 
 function newState(agent) {
@@ -98,6 +99,8 @@ function algorithm() {
 //  console.log(state);
   if (state.exit) {
     console.log("I found the maze exit.  node.js rocks!");
+    console.log("I wasted time chasing " + history.deadend + " dead ends");
+    console.log("The exit is at " + state.exit);
     return; // since it doesn't do anything, the program will exit.
   }
   startDirection = 0; // north
@@ -110,8 +113,12 @@ function algorithm() {
   for (var i = 0; i < directions.length; i++) {
     var suggestedDirection = (i + startDirection) % directions.length;
     if (state[directions[suggestedDirection]]) {
+      if ((suggestedDirection + 2) % 4 == history.navigate) {
+        console.log("Dead end ... :-(");
+        history.deadend++;
+      }
       history.navigate = suggestedDirection;
-      console.log("" + history.navigate + ": " + directions[history.navigate] + "\n" + state[directions[history.navigate]]);
+      console.log("Decided to go " + directions[history.navigate]);
       get(state[directions[history.navigate]]);
       return;
     }
@@ -133,7 +140,7 @@ var http      = require('http');
 var ticks = 0;
 function tick() {
   
-  console.log(ticks++ + ": going to " + nextUri);
+  console.log("Move #" + ticks++ + " at " + nextUri);
   var uri = url.parse(nextUri);
   nextUri = null;
   var client= http.createClient(uri.port ? uri.port : 80, uri.hostname);
