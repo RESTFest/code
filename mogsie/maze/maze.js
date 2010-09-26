@@ -40,7 +40,7 @@ function get(someuri) {
 get(process.argv[2]);
 
 var responseMatcher = match.Match(
-     ['status',200,'application', 'vnd.amundsen.maze+xml' ,String, Object], function(some,data) {
+     ['status',Number,'application', 'vnd.amundsen.maze+xml' ,String, Object], function(responseCode, some,data) {
         var body = "";
         data.r.on('data',function(newdata) {
           // todo: extract encoding from header
@@ -58,6 +58,10 @@ var responseMatcher = match.Match(
             return undefined;
           }
           var agent = new Object();
+          agent.responseCode = responseCode;
+          agent.body = body;
+          agent.headers = new Object();
+          agent.headers.etag = data.r.headers.etag;
           agent.current = findLink(doc, 'current');
           agent.start = findLink(doc, 'start');
           agent.exit= findLink(doc, 'exit');
@@ -96,7 +100,12 @@ function newState(agent) {
 
 function algorithm() {
   console.log("\n****************************************************************************\n");
-//  console.log(state);
+  if (state.responseCode >= 400) {
+    // Go back?  Who knows...
+    console.log("I got stuck");
+    return;
+  }
+  // todo: handle 3xx and non-body 2xx entities too.
   if (state.exit) {
     console.log("I found the maze exit.  node.js rocks!");
     console.log("I wasted time chasing " + history.deadend + " dead ends");
